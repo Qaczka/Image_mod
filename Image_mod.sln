@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Image_mod", "Image_mod\Image_mod.vcxproj", "{ABC3F365-EE00-4851-9D38-094FB40F7F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC3F365-EE00-4851-9D38-094FB40F7F7A}.Debug|x64.ActiveCfg = Debug|x64
+		{ABC3F365-EE00-4851-9D38-094FB40F7F7A}.Debug|x64.Build.0 = Debug|x64
+		{ABC3F365-EE00-4851-9D38-094FB40F7F7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABC3F365-EE00-4851-9D38-094FB40F7F7A}.Debug|x86.Build.0 = Debug|Win32
+		{ABC3F365-EE00-4851-9D38-094FB40F7F7A}.Release|x64.ActiveCfg = Release|x64
+		{ABC3F365-EE00-4851-9D38-094FB40F7F7A}.Release|x64.Build.0 = Release|x64
+		{ABC3F365-EE00-4851-9D38-094FB40F7F7A}.Release|x86.ActiveCfg = Release|Win32
+		{ABC3F365-EE00-4851-9D38-094FB40F7F7A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4E9FFB-B231-4742-9111-217F5C5D4606}
+	EndGlobalSection
+EndGlobal
